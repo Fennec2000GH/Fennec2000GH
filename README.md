@@ -20,19 +20,29 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 ## 🖥️ What do I do with code?
 ### Hackathons (40%)
 ----------------------------------------------------------------------------------------------------
+[![DevPost](https://image.pitchbook.com/2Pt6pF8Bw1g4evmlN6uOupe1uZR1598853768457_200x200)](https://devpost.com/Fennec2000?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ### Research and Assistantships (15%)
 ----------------------------------------------------------------------------------------------------
+[![UNT REU 2021](https://informationscience.unt.edu/sites/default/files/og-is-logo-1200x628.jpg)](https://reu.ci.unt.edu)
 
 ### Open-Source Contributions (10%)
 ----------------------------------------------------------------------------------------------------
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/Octocat.png)](https://github.com/Fennec2000GH)
 
 ### Practice and Self-Learning (15%)
 ----------------------------------------------------------------------------------------------------
+#### Completed:
+
+- MATLAB ONRAMP
+- MATLAB Machine Learning ONRAMP
+
+#### In Progress:
+- Tensorflow.js
 
 ### University Assignments (20%)
 ----------------------------------------------------------------------------------------------------
-
+[![University Assignments](https://images.vexels.com/media/users/3/143610/isolated/lists/dd325c7963a580a216cc74d5c70d6824-graduation-cap-blue.png)](https://github.com/Fennec2000GH/School-Projects)
 
 ## 🤖 Technologies Used
 ----------------------------------------------------------------------------------------------------
