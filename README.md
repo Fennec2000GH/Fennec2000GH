@@ -69,7 +69,7 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 ![10 JS/HTML/CSS + Flavors of JS](https://img.shields.io/badge/10-JS/HTML/CSS&nbsp;+&nbsp;Flavors&nbsp;of&nbsp;JS-orange?style=flat&logo=appveyor)
 
 
-### Frameworks and Tools
+### ⛏️ Frameworks and Tools
 ----------------------------------------------------------------------------------------------------
 ![1 Docker](https://img.shields.io/badge/1-Docker-royalblue?style=for-the-badge&logo=appveyor)
 
@@ -89,13 +89,21 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 - Neo4j
 - BigChainDB
 
-### IDEs, Environments, and Platforms
+### 🍽️ IDEs, Environments, and Platforms
 ----------------------------------------------------------------------------------------------------
-- VS Code
-- Code-Server
-- Jupyter Notebook and Jupyter Lab
-- Anaconda3
-- Various remote VMs e.g. Microsoft Azure, Linode, Digital Ocean
+![1 Visual Studio Code](https://img.shields.io/badge/1-Visual&nbsp;Studio&nbsp;Code-mediumblue?style=for-the-badge&logo=appveyor)
+
+![2 Code-Server](https://img.shields.io/badge/2-Code&#8211;Server-cyan?style=for-the-badge&logo=appveyor)
+
+![3 Anaconda3](https://img.shields.io/badge/3-Anaconda3-springgreen?style=for-the-badge&logo=appveyor)
+ - Jupyter Notebook
+ - Jupyter Lab
+ - R Studio
+
+![4 Virtual Machines](https://img.shields.io/badge/4-Virtual&nbsp;Machines-midnightblue?style=for-the-badge&logo=appveyor)
+- Linode 
+- Microsoft Azure 
+- Digital Ocean
 
 ## 💡 Future topics I want to improve on...
 ----------------------------------------------------------------------------------------------------
