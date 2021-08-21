@@ -71,12 +71,23 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 
 ### Frameworks and Tools
 ----------------------------------------------------------------------------------------------------
-- Nodejs
-- GraphQL
-- Truffle Suite: Ganache
-- Databases including CockroachDB, Apache Cassandra, MongoDB, Redis, Neo4j, BigChainDB
-- Docker
-- Kubernetes
+![1 Docker](https://img.shields.io/badge/1-Docker-royalblue?style=for-the-badge&logo=appveyor)
+
+![2 Kubernetes](https://img.shields.io/badge/2-Kubernetes-steelblue?style=for-the-badge&logo=appveyor)
+
+![3 Node.js](https://img.shields.io/badge/3-Node.js-limegreen?style=for-the-badge&logo=appveyor)
+
+![4 GraphQL](https://img.shields.io/badge/4-GraphQL-deeppink?style=for-the-badge&logo=appveyor)
+
+![5 Truffle Suite: Ganache](https://img.shields.io/badge/5-Truffle&nbsp;Suite:&nbsp;Ganache-chocolate?style=for-the-badge&logo=appveyor)
+
+![6 Databases](https://img.shields.io/badge/6-Databases-indigo?style=for-the-badge&logo=appveyor)
+- CockroachDB
+- Apache Cassandra
+- MongoDB
+- Redis
+- Neo4j
+- BigChainDB
 
 ### IDEs, Environments, and Platforms
 ----------------------------------------------------------------------------------------------------
