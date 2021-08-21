@@ -111,8 +111,3 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 - Kubernetes cluster applications
 - Azure cloud computing and ML
 - Blockchain webapps
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
