@@ -1,4 +1,6 @@
-# Hello there! 👋
+![banner](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
+
+# Hello there 👋
 
 <!-- **Fennec2000GH/Fennec2000GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
