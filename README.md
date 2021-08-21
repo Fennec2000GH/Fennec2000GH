@@ -46,16 +46,28 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 
 ## 🤖 Technologies Used
 ----------------------------------------------------------------------------------------------------
-### Programming Languages
+### 👨‍💻 Programming Languages
 ----------------------------------------------------------------------------------------------------
-- Python
-- Java
-- C++
-- JS/HTML/CSS + Flavors of JS
-- R
-- Rust
-- Julia
-- Golang
+![1 Python](https://img.shields.io/badge/1-Python-yellow?style=flat&logo=appveyor)
+
+![2 C++](https://img.shields.io/badge/2-C++-darkblue?style=flat&logo=appveyor)
+
+![3 Java](https://img.shields.io/badge/3-Java-firebrick?style=flat&logo=appveyor)
+
+![4 Julia](https://img.shields.io/badge/4-Julia-orchid?style=flat&logo=appveyor)
+
+![5 R](https://img.shields.io/badge/5-R-blue?style=flat&logo=appveyor)
+
+![6 Rust](https://img.shields.io/badge/6-Rust-gainsboro?style=flat&logo=appveyor)
+
+![7 MATLAB](https://img.shields.io/badge/7-MATLAB-tomato?style=flat&logo=appveyor)
+
+![8 Solidity](https://img.shields.io/badge/8-Solidity-black?style=flat&logo=appveyor)
+
+![9 Go](https://img.shields.io/badge/9-Go-skyblue?style=flat&logo=appveyor)
+
+![10 JS/HTML/CSS + Flavors of JS](https://img.shields.io/badge/10-JS/HTML/CSS&nbsp;+&nbsp;Flavors&nbsp;of&nbsp;JS-orange?style=flat&logo=appveyor)
+
 
 ### Frameworks and Tools
 ----------------------------------------------------------------------------------------------------
