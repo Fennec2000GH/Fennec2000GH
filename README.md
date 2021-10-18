@@ -17,6 +17,10 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 📱 **Phone:** +1 (352) - 872 - 6633 <br>
 📃 **Website:** https://caijunqin.wixsite.com/portfolio <br>
 
+## Resume and CV 🧾
+----------------------------------------------------------------------------------------------------
+Please feel free to check out my credentials through my [resume and CV ](https://github.com/Fennec2000GH/Resume).
+
 <!-- Here are some ideas to get you started: -->
 
 ## 🖥️ What do I do with code?
@@ -109,7 +113,7 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 
 ## 💡 Future topics I want to improve on...
 ----------------------------------------------------------------------------------------------------
-- MLops frameworks
+- MLops and Dataops frameworks
 - Kubernetes cluster applications
 - Azure cloud computing and ML
 - Blockchain webapps
