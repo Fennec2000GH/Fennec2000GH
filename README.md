@@ -16,6 +16,7 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 📧 **Email:** <a href = "mailto:qcaijun2013@gmail.com"> qcaijun2013@gmail.com </a> <br>
 📱 **Phone:** +1 (352) - 872 - 6633 <br>
 📃 **Website:** https://caijunqin.wixsite.com/portfolio <br>
+🆕 **New website under construction:** https://fennec2000gh.github.io <br>
 
 ## Resume and CV 🧾
 ----------------------------------------------------------------------------------------------------
