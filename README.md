@@ -18,9 +18,9 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 📃 **Website:** https://caijunqin.wixsite.com/portfolio <br>
 🆕 **New website under construction:** https://fennec2000gh.github.io <br>
 
-## Resume and CV 🧾
+## Resume 🧾
 ----------------------------------------------------------------------------------------------------
-Please feel free to check out my credentials through my [resume](https://drive.google.com/file/d/1ltBenNCtJjmUZk-4x5JQbky5SVBIbxx_/view?usp=sharing).
+Please feel free to check out my professional and education highlights through my [resume](https://drive.google.com/file/d/1ltBenNCtJjmUZk-4x5JQbky5SVBIbxx_/view?usp=sharing).
 
 <!-- Here are some ideas to get you started: -->
 
