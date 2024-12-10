@@ -20,7 +20,7 @@ Welcome to my GitHub! My name is Caijun Qin. I am currently attending the Univer
 
 ## Resume and CV 🧾
 ----------------------------------------------------------------------------------------------------
-Please feel free to check out my credentials through my [resume and CV ](https://github.com/Fennec2000GH/Resume).
+Please feel free to check out my credentials through my [resume](https://drive.google.com/file/d/1ltBenNCtJjmUZk-4x5JQbky5SVBIbxx_/view?usp=sharing).
 
 <!-- Here are some ideas to get you started: -->
 
@@ -65,14 +65,6 @@ Please feel free to check out my credentials through my [resume and CV ](https:/
 
 ![5 R](https://img.shields.io/badge/5-R-blue?style=flat&logo=appveyor)
 
-![6 Rust](https://img.shields.io/badge/6-Rust-gainsboro?style=flat&logo=appveyor)
-
-![7 MATLAB](https://img.shields.io/badge/7-MATLAB-tomato?style=flat&logo=appveyor)
-
-![8 Solidity](https://img.shields.io/badge/8-Solidity-black?style=flat&logo=appveyor)
-
-![9 Go](https://img.shields.io/badge/9-Go-skyblue?style=flat&logo=appveyor)
-
 ![10 JS/HTML/CSS + Flavors of JS](https://img.shields.io/badge/10-JS/HTML/CSS&nbsp;+&nbsp;Flavors&nbsp;of&nbsp;JS-orange?style=flat&logo=appveyor)
 
 
@@ -89,32 +81,6 @@ Please feel free to check out my credentials through my [resume and CV ](https:/
 ![5 Truffle Suite: Ganache](https://img.shields.io/badge/5-Truffle&nbsp;Suite:&nbsp;Ganache-chocolate?style=for-the-badge&logo=appveyor)
 
 ![6 Databases](https://img.shields.io/badge/6-Databases-indigo?style=for-the-badge&logo=appveyor)
-- CockroachDB
+- PostgreSQL
 - Apache Cassandra
 - MongoDB
-- Redis
-- Neo4j
-- BigChainDB
-
-### 🍽️ IDEs, Environments, and Platforms
-----------------------------------------------------------------------------------------------------
-![1 Visual Studio Code](https://img.shields.io/badge/1-Visual&nbsp;Studio&nbsp;Code-mediumblue?style=for-the-badge&logo=appveyor)
-
-![2 Code-Server](https://img.shields.io/badge/2-Code&#8211;Server-cyan?style=for-the-badge&logo=appveyor)
-
-![3 Anaconda3](https://img.shields.io/badge/3-Anaconda3-springgreen?style=for-the-badge&logo=appveyor)
- - Jupyter Notebook
- - Jupyter Lab
- - R Studio
-
-![4 Virtual Machines](https://img.shields.io/badge/4-Virtual&nbsp;Machines-midnightblue?style=for-the-badge&logo=appveyor)
-- Linode 
-- Microsoft Azure 
-- Digital Ocean
-
-## 💡 Future topics I want to improve on...
-----------------------------------------------------------------------------------------------------
-- MLops and Dataops frameworks
-- Kubernetes cluster applications
-- Azure cloud computing and ML
-- Blockchain webapps
