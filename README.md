@@ -4,7 +4,7 @@
 
 <!-- **Fennec2000GH/Fennec2000GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Welcome to my GitHub! My name is Caijun Qin. I am currently attending the University of Florida (2019 - 2022) pursuiing Computer Science B.S. and Statistics B.A. I am active in hackathons, practice coding sessions, and academic research within the computing field. Please feel free to contact or connect with me through social media or email.
+Welcome to my GitHub! My name is Caijun Qin. I am currently attending the University of Florida (2019 - 2022) pursuing Computer Science B.S. and Statistics B.A. I am active in hackathons, practice coding sessions, and academic research within the computing field. Please feel free to contact or connect with me through social media or email.
 
 ## GitHub Statistics
 ----------------------------------------------------------------------------------------------------
